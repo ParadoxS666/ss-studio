@@ -1,0 +1,8 @@
+# build output (the signed APKs that matter are in releases/)
+build/
+# the signing key stays private: never commit it
+signing/
+*.jks
+*.keystore
+__pycache__/
+*.pyc

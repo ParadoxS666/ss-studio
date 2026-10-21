@@ -1,0 +1,2017 @@
+{
+ "bars": [
+  {
+   "n": 1,
+   "notes": [
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 2.0,
+     "key": 62,
+     "name": "D3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 2.0,
+     "key": 59,
+     "name": "B2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 2.0,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 2.0,
+     "len": 1.0,
+     "key": 57,
+     "name": "A2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 62,
+     "name": "D3",
+     "moved": false,
+     "shared": true
+    },
+    {
+     "hand": "R",
+     "beat": 1.0,
+     "len": 0.5,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.5,
+     "len": 0.5,
+     "key": 57,
+     "name": "A2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.0,
+     "len": 0.5,
+     "key": 59,
+     "name": "B2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.5,
+     "len": 0.5,
+     "key": 60,
+     "name": "C3",
+     "moved": false,
+     "shared": false
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "notes": [
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 3.0,
+     "key": 59,
+     "name": "B2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 62,
+     "name": "D3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.0,
+     "len": 1.0,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.0,
+     "len": 1.0,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "notes": [
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 3.0,
+     "key": 60,
+     "name": "C3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 64,
+     "name": "E3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.0,
+     "len": 0.5,
+     "key": 60,
+     "name": "C3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.5,
+     "len": 0.5,
+     "key": 62,
+     "name": "D3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.0,
+     "len": 0.5,
+     "key": 64,
+     "name": "E3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.5,
+     "len": 0.5,
+     "key": 66,
+     "name": "F♯3",
+     "moved": false,
+     "shared": false
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "notes": [
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 3.0,
+     "key": 59,
+     "name": "B2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 67,
+     "name": "G3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.0,
+     "len": 1.0,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.0,
+     "len": 1.0,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "notes": [
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 3.0,
+     "key": 57,
+     "name": "A2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 60,
+     "name": "C3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.0,
+     "len": 0.5,
+     "key": 62,
+     "name": "D3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.5,
+     "len": 0.5,
+     "key": 60,
+     "name": "C3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.0,
+     "len": 0.5,
+     "key": 59,
+     "name": "B2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.5,
+     "len": 0.5,
+     "key": 57,
+     "name": "A2",
+     "moved": false,
+     "shared": false
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "notes": [
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 3.0,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 59,
+     "name": "B2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.0,
+     "len": 0.5,
+     "key": 60,
+     "name": "C3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.5,
+     "len": 0.5,
+     "key": 59,
+     "name": "B2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.0,
+     "len": 0.5,
+     "key": 57,
+     "name": "A2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.5,
+     "len": 0.5,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "notes": [
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 62,
+     "name": "D3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 1.0,
+     "len": 1.0,
+     "key": 59,
+     "name": "B2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 2.0,
+     "len": 1.0,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 54,
+     "name": "F♯2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.0,
+     "len": 0.5,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.5,
+     "len": 0.5,
+     "key": 57,
+     "name": "A2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.0,
+     "len": 0.5,
+     "key": 59,
+     "name": "B2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.5,
+     "len": 0.3854166666666667,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.8854166666666665,
+     "len": 0.11197916666666667,
+     "key": 59,
+     "name": "B2",
+     "moved": false,
+     "shared": false
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "notes": [
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 62,
+     "name": "D3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 1.0,
+     "len": 0.5,
+     "key": 50,
+     "name": "D2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 1.5,
+     "len": 0.5,
+     "key": 60,
+     "name": "C3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 2.0,
+     "len": 0.5,
+     "key": 59,
+     "name": "B2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 2.5,
+     "len": 0.5,
+     "key": 57,
+     "name": "A2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 3.0,
+     "key": 57,
+     "name": "A2",
+     "moved": false,
+     "shared": false
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "notes": [
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 2.0,
+     "key": 59,
+     "name": "B2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 2.0,
+     "len": 1.0,
+     "key": 57,
+     "name": "A2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 62,
+     "name": "D3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.0,
+     "len": 0.5,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.5,
+     "len": 0.5,
+     "key": 57,
+     "name": "A2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.0,
+     "len": 0.5,
+     "key": 59,
+     "name": "B2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.5,
+     "len": 0.5,
+     "key": 60,
+     "name": "C3",
+     "moved": false,
+     "shared": false
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "notes": [
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 1.0,
+     "len": 1.0,
+     "key": 59,
+     "name": "B2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 2.0,
+     "len": 1.0,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 62,
+     "name": "D3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.0,
+     "len": 1.0,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.0,
+     "len": 1.0,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": true
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "notes": [
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 3.0,
+     "key": 60,
+     "name": "C3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 64,
+     "name": "E3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.0,
+     "len": 0.5,
+     "key": 60,
+     "name": "C3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.5,
+     "len": 0.5,
+     "key": 62,
+     "name": "D3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.0,
+     "len": 0.5,
+     "key": 64,
+     "name": "E3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.5,
+     "len": 0.5,
+     "key": 66,
+     "name": "F♯3",
+     "moved": false,
+     "shared": false
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "notes": [
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 59,
+     "name": "B2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 1.0,
+     "len": 0.5,
+     "key": 60,
+     "name": "C3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 1.5,
+     "len": 0.5,
+     "key": 59,
+     "name": "B2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 2.0,
+     "len": 0.5,
+     "key": 57,
+     "name": "A2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 2.5,
+     "len": 0.5,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 67,
+     "name": "G3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.0,
+     "len": 1.0,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.0,
+     "len": 1.0,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "notes": [
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 2.0,
+     "key": 57,
+     "name": "A2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 2.0,
+     "len": 1.0,
+     "key": 54,
+     "name": "F♯2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 60,
+     "name": "C3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.0,
+     "len": 0.5,
+     "key": 62,
+     "name": "D3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.5,
+     "len": 0.5,
+     "key": 60,
+     "name": "C3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.0,
+     "len": 0.5,
+     "key": 59,
+     "name": "B2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.5,
+     "len": 0.5,
+     "key": 57,
+     "name": "A2",
+     "moved": false,
+     "shared": false
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "notes": [
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 2.0,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 2.0,
+     "len": 1.0,
+     "key": 59,
+     "name": "B2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 59,
+     "name": "B2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.0,
+     "len": 0.5,
+     "key": 60,
+     "name": "C3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.5,
+     "len": 0.5,
+     "key": 59,
+     "name": "B2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.0,
+     "len": 0.5,
+     "key": 57,
+     "name": "A2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.5,
+     "len": 0.5,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "notes": [
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 60,
+     "name": "C3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 1.0,
+     "len": 1.0,
+     "key": 62,
+     "name": "D3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 2.0,
+     "len": 1.0,
+     "key": 50,
+     "name": "D2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 57,
+     "name": "A2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.0,
+     "len": 0.5,
+     "key": 59,
+     "name": "B2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.5,
+     "len": 0.5,
+     "key": 57,
+     "name": "A2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.0,
+     "len": 0.5,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.5,
+     "len": 0.5,
+     "key": 54,
+     "name": "F♯2",
+     "moved": false,
+     "shared": false
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "notes": [
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 2.0,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 2.0,
+     "len": 1.0,
+     "key": 55,
+     "name": "G2",
+     "moved": true,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 3.0,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": true
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "notes": [
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 3.0,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 71,
+     "name": "B3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.0,
+     "len": 0.5,
+     "key": 67,
+     "name": "G3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.5,
+     "len": 0.5,
+     "key": 69,
+     "name": "A3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.0,
+     "len": 0.5,
+     "key": 71,
+     "name": "B3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.5,
+     "len": 0.5,
+     "key": 67,
+     "name": "G3",
+     "moved": false,
+     "shared": false
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "notes": [
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 3.0,
+     "key": 54,
+     "name": "F♯2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 69,
+     "name": "A3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.0,
+     "len": 0.5,
+     "key": 62,
+     "name": "D3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.5,
+     "len": 0.5,
+     "key": 64,
+     "name": "E3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.0,
+     "len": 0.5,
+     "key": 66,
+     "name": "F♯3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.5,
+     "len": 0.5,
+     "key": 62,
+     "name": "D3",
+     "moved": false,
+     "shared": false
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "notes": [
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 52,
+     "name": "E2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 1.0,
+     "len": 1.0,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 2.0,
+     "len": 1.0,
+     "key": 52,
+     "name": "E2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 67,
+     "name": "G3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.0,
+     "len": 0.5,
+     "key": 64,
+     "name": "E3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.5,
+     "len": 0.5,
+     "key": 66,
+     "name": "F♯3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.0,
+     "len": 0.5,
+     "key": 67,
+     "name": "G3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.5,
+     "len": 0.5,
+     "key": 62,
+     "name": "D3",
+     "moved": false,
+     "shared": false
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "notes": [
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 2.0,
+     "key": 57,
+     "name": "A2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 2.0,
+     "len": 1.0,
+     "key": 57,
+     "name": "A2",
+     "moved": true,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 61,
+     "name": "C♯3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.0,
+     "len": 0.5,
+     "key": 59,
+     "name": "B2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.5,
+     "len": 0.5,
+     "key": 61,
+     "name": "C♯3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.0,
+     "len": 1.0,
+     "key": 57,
+     "name": "A2",
+     "moved": false,
+     "shared": true
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "notes": [
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 3.0,
+     "key": 57,
+     "name": "A2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 0.5,
+     "key": 57,
+     "name": "A2",
+     "moved": false,
+     "shared": true
+    },
+    {
+     "hand": "R",
+     "beat": 0.5,
+     "len": 0.5,
+     "key": 59,
+     "name": "B2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.0,
+     "len": 0.5,
+     "key": 61,
+     "name": "C♯3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.5,
+     "len": 0.5,
+     "key": 62,
+     "name": "D3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.0,
+     "len": 0.5,
+     "key": 64,
+     "name": "E3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.5,
+     "len": 0.5,
+     "key": 66,
+     "name": "F♯3",
+     "moved": false,
+     "shared": false
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "notes": [
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 59,
+     "name": "B2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 1.0,
+     "len": 1.0,
+     "key": 62,
+     "name": "D3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 2.0,
+     "len": 1.0,
+     "key": 61,
+     "name": "C♯3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 67,
+     "name": "G3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.0,
+     "len": 1.0,
+     "key": 66,
+     "name": "F♯3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.0,
+     "len": 1.0,
+     "key": 64,
+     "name": "E3",
+     "moved": false,
+     "shared": false
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "notes": [
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 62,
+     "name": "D3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 1.0,
+     "len": 1.0,
+     "key": 54,
+     "name": "F♯2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 2.0,
+     "len": 1.0,
+     "key": 57,
+     "name": "A2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 66,
+     "name": "F♯3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.0,
+     "len": 1.0,
+     "key": 57,
+     "name": "A2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.0,
+     "len": 1.0,
+     "key": 61,
+     "name": "C♯3",
+     "moved": false,
+     "shared": false
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "notes": [
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 62,
+     "name": "D3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 1.0,
+     "len": 1.0,
+     "key": 50,
+     "name": "D2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 2.0,
+     "len": 1.0,
+     "key": 60,
+     "name": "C3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 3.0,
+     "key": 62,
+     "name": "D3",
+     "moved": false,
+     "shared": true
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "notes": [
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 2.0,
+     "key": 59,
+     "name": "B2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 1.0,
+     "len": 2.0,
+     "key": 62,
+     "name": "D3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 2.0,
+     "len": 1.0,
+     "key": 59,
+     "name": "B2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 62,
+     "name": "D3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.0,
+     "len": 0.5,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.5,
+     "len": 0.5,
+     "key": 54,
+     "name": "F♯2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.0,
+     "len": 1.0,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "notes": [
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 2.0,
+     "key": 60,
+     "name": "C3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 1.0,
+     "len": 2.0,
+     "key": 64,
+     "name": "E3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 2.0,
+     "len": 1.0,
+     "key": 60,
+     "name": "C3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 64,
+     "name": "E3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.0,
+     "len": 0.5,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.5,
+     "len": 0.5,
+     "key": 54,
+     "name": "F♯2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.0,
+     "len": 1.0,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "notes": [
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 59,
+     "name": "B2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 1.0,
+     "len": 1.0,
+     "key": 57,
+     "name": "A2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 2.0,
+     "len": 1.0,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 62,
+     "name": "D3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.0,
+     "len": 1.0,
+     "key": 60,
+     "name": "C3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.0,
+     "len": 1.0,
+     "key": 59,
+     "name": "B2",
+     "moved": false,
+     "shared": false
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "notes": [
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 2.0,
+     "key": 62,
+     "name": "D3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 0.5,
+     "key": 57,
+     "name": "A2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.5,
+     "len": 0.5,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.0,
+     "len": 0.5,
+     "key": 54,
+     "name": "F♯2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.5,
+     "len": 0.5,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.0,
+     "len": 1.0,
+     "key": 57,
+     "name": "A2",
+     "moved": false,
+     "shared": false
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "notes": [
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 3.0,
+     "key": 50,
+     "name": "D2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 2.0,
+     "len": 1.0,
+     "key": 54,
+     "name": "F♯2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 0.5,
+     "key": 50,
+     "name": "D2",
+     "moved": false,
+     "shared": true
+    },
+    {
+     "hand": "R",
+     "beat": 0.5,
+     "len": 0.5,
+     "key": 52,
+     "name": "E2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.0,
+     "len": 0.5,
+     "key": 54,
+     "name": "F♯2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.5,
+     "len": 0.5,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.0,
+     "len": 0.5,
+     "key": 57,
+     "name": "A2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.5,
+     "len": 0.5,
+     "key": 59,
+     "name": "B2",
+     "moved": false,
+     "shared": false
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "notes": [
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 52,
+     "name": "E2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 1.0,
+     "len": 1.0,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 2.0,
+     "len": 1.0,
+     "key": 54,
+     "name": "F♯2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 60,
+     "name": "C3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.0,
+     "len": 1.0,
+     "key": 59,
+     "name": "B2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.0,
+     "len": 1.0,
+     "key": 57,
+     "name": "A2",
+     "moved": false,
+     "shared": false
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "notes": [
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 1.0,
+     "len": 1.0,
+     "key": 59,
+     "name": "B2",
+     "moved": true,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 2.0,
+     "len": 1.0,
+     "key": 50,
+     "name": "D2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 0.5,
+     "key": 59,
+     "name": "B2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.5,
+     "len": 0.5,
+     "key": 62,
+     "name": "D3",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 1.0,
+     "len": 1.0,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 2.0,
+     "len": 1.0,
+     "key": 54,
+     "name": "F♯2",
+     "moved": false,
+     "shared": false
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "notes": [
+    {
+     "hand": "L",
+     "beat": 0.0,
+     "len": 1.0,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 1.0,
+     "len": 1.0,
+     "key": 50,
+     "name": "D2",
+     "moved": false,
+     "shared": false
+    },
+    {
+     "hand": "L",
+     "beat": 2.0,
+     "len": 1.0,
+     "key": 55,
+     "name": "G2",
+     "moved": true,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 3.0,
+     "key": 59,
+     "name": "B2",
+     "moved": true,
+     "shared": false
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 3.0,
+     "key": 55,
+     "name": "G2",
+     "moved": false,
+     "shared": true
+    },
+    {
+     "hand": "R",
+     "beat": 0.0,
+     "len": 3.0,
+     "key": 50,
+     "name": "D2",
+     "moved": false,
+     "shared": false
+    }
+   ]
+  }
+ ],
+ "used": [
+  50,
+  52,
+  54,
+  55,
+  57,
+  59,
+  60,
+  61,
+  62,
+  64,
+  66,
+  67,
+  69,
+  71
+ ],
+ "bpm": 140
+}

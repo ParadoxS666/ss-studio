@@ -1,0 +1,66 @@
+First t | C major scale                                        |   10.6s | R   15 C4-C5 | L   15 C3-C4
+          R starts: C4 D4 E4 F4 G4 A4 B4 C5 B4 A4
+First t | Mary Had a Little Lamb                               |   19.0s | R   26 C4-G4 | L    8 G2-C3
+          R starts: E4 D4 C4 D4 E4 E4 E4 D4 D4 D4
+First t | Twinkle, Twinkle (Ah, vous dirai-je, maman)          |   28.7s | R   42 C4-A4 | L   22 G2-F3
+          R starts: C4 C4 G4 G4 A4 A4 G4 F4 F4 E4
+First t | Ode to Joy                                           |   34.8s | R   62 G3-G4 | L   20 G2-C3
+          R starts: E4 E4 F4 G4 G4 F4 E4 D4 C4 C4
+First t | Lullaby (Wiegenlied), Op. 49 No. 4                   |   35.9s | R   54 C4-C5 | L   86 F3-B4
+          R starts: E4 E4 G4 E4 E4 G4 E4 G4 C5 B4
+First t | Greensleeves                                         |   48.4s | R   72 E4-G5 | L   38 E3-F4
+          R starts: A4 C5 D5 E5 F5 E5 D5 B4 G4 A4
+Level 1 | Minuet in G major, BWV Anh. 114                      |   96.0s | R  258 B3-B5 | L  150 G2-E4
+          R starts: D5 G4 A4 B4 C5 D5 G4 G4 E5 C5
+Level 1 | Minuet in G minor, BWV Anh. 115                      |   95.9s | R  236 A#3-A#5 | L  162 G2-D4
+          R starts: A#5 A5 G5 A5 D5 D5 G5 G4 A4 A#4
+Level 1 | Musette in D major, BWV Anh. 126                     |   48.0s | R  182 A3-A5 | L  160 D2-A3
+          R starts: A5 G5 F#5 E5 D5 A5 G5 F#5 E5 D5
+Level 1 | Minuet in F major, K. 2                              |   57.6s | R  114 C4-A5 | L   62 F2-D4
+          R starts: F5 A5 C5 C5 D5 F5 A#4 A#4 A4 C5
+Level 1 | Melody, Op. 68 No. 1                                 |   71.9s | R  118 F#4-A5 | L  185 G3-C5
+          R starts: E5 D5 C5 B4 A4 C5 B4 D5 C5 G4
+Level 1 | Soldiers' March, Op. 68 No. 2                        |   56.7s | R  182 C4-G5 | L  130 C3-G4
+          R starts: G4 B4 G4 C5 G4 D5 G4 E5 G4 D5
+Level 1 | Humming Song, Op. 68 No. 3                           |   79.1s | R  119 D4-A5 | L  158 D3-G4
+          R starts: E5 D5 C5 D5 E5 F5 G5 F5 G5 E5
+Level 1 | Old French Song, Op. 39 No. 16                       |   53.6s | R   99 A#3-F5 | L   89 G2-G4
+          R starts: D4 G4 A4 A#4 C5 D5 D5 C5 D5 D#5
+Level 1 | Candour, Op. 100 No. 1                               |   91.0s | R  243 E4-C6 | L   97 B2-G#4
+          R starts: G5 E5 D5 C5 G5 E5 D5 C5 C6 A5
+Level 2 | Little Prelude in C major, BWV 939                   |   53.1s | R  115 C4-C6 | L   64 C2-D4
+          R starts: C4 E4 G4 E4 C4 A#4 G4 A4 C4 F4
+Level 2 | The Happy Farmer, Op. 68 No. 10                      |   48.0s | R  240 A3-F5 | L  112 A#2-F4
+          R starts: C4 F4 A4 C4 F4 A4 F4 A4 C5 F4
+Level 2 | The Wild Horseman, Op. 68 No. 8                      |   38.1s | R  193 C4-F5 | L  224 C3-F4
+          R starts: E4 A4 E4 A4 C5 A4 C5 E5 C5 F5
+Level 2 | March of the Wooden Soldiers, Op. 39 No. 5           |   47.2s | R  167 E4-G5 | L  151 A3-D5
+          R starts: A4 D5 D5 B4 A#4 B4 C#5 A4 D5 D5
+Level 2 | Arabesque, Op. 100 No. 2                             |   54.9s | R  180 A3-A6 | L  177 A2-A4
+          R starts: A4 B4 C5 B4 A4 A4 B4 C5 D5 E5
+Level 2 | Prelude in A major, Op. 28 No. 7                     |   35.9s | R  102 C#4-C#6 | L   66 A1-A4
+          R starts: E4 C#5 D5 D4 G#4 B4 D4 G#4 B4 D4
+Level 2 | Prelude in E minor, Op. 28 No. 4                     |  100.7s | R   79 B3-C6 | L  521 E1-A4
+          R starts: B3 B4 B4 C5 B4 C5 B4 C5 B4 A#4
+Level 2 | Für Elise, WoO 59                                    |  170.0s | R  605 A3-E7 | L  436 A1-E5
+          R starts: E5 D#5 E5 D#5 E5 B4 D5 C5 A4 C4
+Level 2 | Prelude in C major, BWV 846                          |  127.0s | R  415 D3-A5 | L  134 C2-E4
+          R starts: G4 C5 E5 G4 C5 E5 G4 C5 E5 G4
+Level 2 | Gymnopédie No. 1                                     |  212.5s | R  128 C4-A5 | L  327 A1-A4
+          R starts: F#5 A5 G5 F#5 C#5 B4 C#5 D5 A4 F#4
+Level 3 | Sonatina in C, Op. 36 No. 1 · I. Allegro             |  151.5s | R  454 G3-D6 | L  212 C2-F4
+          R starts: C5 E5 C5 G4 G4 C5 E5 C5 G4 G5
+Level 3 | Sonatina in C, Op. 36 No. 1 · II. Andante            |   58.4s | R  191 C4-A5 | L  141 C2-D4
+          R starts: C5 F5 A4 C5 F4 G4 F4 G4 A4 F4
+Level 3 | Sonatina in C, Op. 36 No. 1 · III. Vivace            |   62.7s | R  267 B3-D6 | L  206 G2-D4
+          R starts: E5 D5 C5 C5 G5 F5 E5 D5 F5 B4
+Level 3 | Sonatina in C, Op. 20 No. 1 · I. Allegro             |  220.5s | R  927 E3-C7 | L  403 B1-A4
+          R starts: C5 E5 G5 G5 G5 G5 G5 C6 E6 C6
+Level 3 | Sonata in C, K. 545 · I. Allegro                     |  291.5s | R 1220 G3-F6 | L 1356 C2-D5
+          R starts: C5 E5 G5 B4 C5 D5 C5 A5 G5 C6
+Level 3 | Moonlight Sonata, Op. 27 No. 2 · I. Adagio sostenuto |  306.4s | R  795 C3-D#6 | L  349 F1-E4
+          R starts: G#3 C#4 E4 G#3 C#4 E4 G#3 C#4 E4 G#3
+Level 3 | Rondo alla Turca, K. 331                             |  222.7s | R 1433 E4-E6 | L 1267 D2-F#4
+          R starts: B4 A4 G#4 A4 C5 D5 C5 B4 C5 E5
+
+32 songs, 175062 bytes
